@@ -60,4 +60,4 @@ sudo apt install libnginx-mod-http-fancyindex
 
 короче, там дохуя чего осталось ещё от меня, так что поправьте header.html, footer.html и styles.css на свой вкус, там я типа бля не оставил какой то общий варик а свой интервебз 3 миррор, ну вообщем СПАСИБО ЗА ВНИМАНИЕ
 
-![cat](https://files.underbed.ru/CDN/cat.gif)
+![cat nihuia sebe](https://files.underbed.ru/CDN/cat.gif)
