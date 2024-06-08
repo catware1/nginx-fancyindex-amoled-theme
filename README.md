@@ -33,8 +33,8 @@ server {
         fancyindex on;
         fancyindex_localtime on;
         fancyindex_exact_size off;
-        fancyindex_header "/Nginx-Fancyindex-Theme-dark/header.html";
-        fancyindex_footer "/Nginx-Fancyindex-Theme-dark/footer.html";
+        fancyindex_header "/nginx-fancyindex-amoled-theme/header.html";
+        fancyindex_footer "/nginx-fancyindex-amoled-theme/footer.html";
         fancyindex_ignore "hidden";
         fancyindex_ignore "Анапа 2007";
         fancyindex_ignore "Домашняя работа";
@@ -46,4 +46,12 @@ server {
     }
 }
 
+```
+# тутор для супер маленьких даунят 
+```
+1) качаем нужные пакеты (это для Debian, остальные идите НАХУЙ)
+
+sudo apt install libnginx-mod-http-fancyindex
+
+2) соси хуй, читай мануал
 ```
