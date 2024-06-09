@@ -24,7 +24,8 @@ server {
 
     error_page 404 /404.html;
     location = /404.html {
-        root /var/www/files-unavail;
+        root /var/www/files-unavail; # это я высрал на случай если шара по NFS. отдельный index.html который
+                                     # намекнёт пользователю что тут вроде бы как должны лежать файлы
         internal;
     }
 
